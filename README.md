@@ -1,19 +1,4 @@
-# Hi there, I'm Adnan Alam 👋
-
-I am a **Full-Stack, Mobile & AI Engineer** focused on architecting scalable web applications, cross-platform mobile apps, and production-grade AI systems. 
-
-My work bridges the gap between robust software engineering and applied AI—combining modern backend architectures, containerized DevOps workflows, and intelligent retrieval systems to build reliable, user-facing products.
-
----
-
-### 🚀 What I Bring to the Table
-
-* **Full-Stack & Mobile Development:** Building responsive, high-performance web and mobile platforms with **React, React Native, Node.js, Express,** and **FastAPI**.
-* **Applied AI & ML Integrations:** Architecting **RAG pipelines** using **LangChain**, vector databases, semantic search, and seamless model deployment into live environments.
-* **DevOps & Infrastructure:** Designing clean REST APIs, containerizing microservices with **Docker**, configuring **CI/CD pipelines**, and managing cloud deployments.
-* **Engineering Standards:** Writing clean, modular, and maintainable code grounded in principles like **Separation of Concerns** and **KISS**.
-
-  # 💫 About Me:
+# 💫 About Me:
 # Hi there, I'm Adnan 👋<br><br>I am a **Full-Stack, Mobile & AI Engineer** focused on architecting scalable web applications, cross-platform mobile apps, and production-grade AI systems. <br><br>My work bridges the gap between robust software engineering and applied AI—combining modern backend architectures, containerized DevOps workflows, and intelligent retrieval systems to build reliable, user-facing products.<br><br>---<br><br>### 🚀 What I Bring to the Table<br><br>* **Full-Stack & Mobile Development:** Building responsive, high-performance web and mobile platforms with **React, React Native, Node.js, Express,** and **FastAPI**.<br>* **Applied AI & ML Integrations:** Architecting **RAG pipelines** using **LangChain**, vector databases, semantic search, and seamless model deployment into live environments.<br>* **DevOps & Infrastructure:** Designing clean REST APIs, containerizing microservices with **Docker**, configuring **CI/CD pipelines**, and managing cloud deployments.<br>* **Engineering Standards:** Writing clean, modular, and maintainable code grounded in principles like **Separation of Concerns** and **KISS**.
 
 
