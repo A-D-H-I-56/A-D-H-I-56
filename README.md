@@ -107,5 +107,5 @@ My work bridges the gap between robust software engineering and applied AI—com
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-service-five.vercel.app/api/stats?username=A-D-H-I-56&theme=dark" alt="Adnan Alam's GitHub Stats" />
+  <img src="https://github-stats-service-five.vercel.app/api/stats?username=A-D-H-I-56&theme=gatsby" alt="Adnan Alam's GitHub Stats" />
 </p>
