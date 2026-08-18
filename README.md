@@ -9,7 +9,7 @@ My work bridges the gap between robust software engineering and applied AI—com
 ### 🚀 What I Bring to the Table
 
 * **Full-Stack & Mobile Development:** Building responsive, high-performance web and mobile platforms with **React, React Native, Node.js, Express,** and **FastAPI**.
-* **Applied AI & ML Integrations:** Architecting **RAG pipelines** using **LangChain**, vector databases, semantic search, and seamless model deployment into live environments.
+* **Applied AI & ML Integrations:** Architecting **RAG pipelines** using **LangChain**, vector databases, semantic search, and seamless ML models deployment into live environments.
 * **DevOps & Infrastructure:** Designing clean REST APIs, containerizing microservices with **Docker**, configuring **CI/CD pipelines**, and managing cloud deployments.
 * **Engineering Standards:** Writing clean, modular, and maintainable code grounded in principles like **Separation of Concerns** and **KISS**.
 
